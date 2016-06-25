@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>Producer</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Producer" sketch:type="MSLayerGroup" transform="translate(4.000000, 4.000000)">
+            <circle id="Oval-26" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" cx="60" cy="60" r="60"></circle>
+            <g id="Rectangle-32-+-arrow-+-Rectangle-23" transform="translate(60.500000, 60.000000) scale(-1, 1) translate(-60.500000, -60.000000) translate(16.000000, 35.000000)" sketch:type="MSShapeGroup">
+                <path d="M41.3809524,12.5 L41.3809524,8.00563294 C41.3809524,3.57581099 44.9614208,0 49.3781525,0 L81.0027999,0 C85.4208319,0 89,3.58424395 89,8.00563294 L89,41.9943671 C89,46.424189 85.4195316,50 81.0027999,50 L49.3781525,50 C44.9601205,50 41.3809524,46.415756 41.3809524,41.9943671 L41.3809524,37.5 L45.3492063,37.5 L45.3492063,41.8381582 C45.3492063,44.0446325 47.1313738,45.8333333 49.3541671,45.8333333 L81.0267853,45.8333333 C83.238664,45.8333333 85.031746,44.0429688 85.031746,41.8381582 L85.031746,8.16184183 C85.031746,5.95536751 83.2495786,4.16666667 81.0267853,4.16666667 L49.3541671,4.16666667 C47.1422884,4.16666667 45.3492063,5.95703125 45.3492063,8.16184183 L45.3492063,12.5 L41.3809524,12.5 Z" id="Rectangle-32" stroke="#4A4A4A" stroke-width="5"></path>
+                <g id="arrow" transform="translate(39.500000, 24.500000) scale(-1, 1) translate(-39.500000, -24.500000) translate(23.000000, 16.000000)" stroke="#4A4A4A">
+                    <g id="arrow-11">
+                        <path d="M17.9359196,6.58057481 L29.2122311,2.47633309 L26.4609236,12.4600044 L17.9359196,6.58057481 Z" id="Path-2" stroke-width="4" fill="#4A4A4A" transform="translate(24.997210, 8.494229) rotate(-70.000000) translate(-24.997210, -8.494229) "></path>
+                        <path d="M0.5,8.5 L20.6176471,8.5" id="Line" stroke-width="7" stroke-linecap="square"></path>
+                    </g>
+                </g>
+                <rect id="Rectangle-22" stroke="#979797" fill="#4A4A4A" x="0" y="14" width="21" height="21"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

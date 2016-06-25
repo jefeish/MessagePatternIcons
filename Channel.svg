@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>Channel</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Channel" sketch:type="MSLayerGroup" transform="translate(63.500000, 63.500000) rotate(90.000000) translate(-63.500000, -63.500000) translate(3.500000, 3.500000)">
+            <g id="pipe" transform="translate(47.000000, 19.000000)" stroke="#4A4A4A" stroke-width="3" sketch:type="MSShapeGroup">
+                <path d="M26.9704759,74 C26.9900556,74.1652618 27,74.3319857 27,74.5 C27,78.6421356 20.9558441,82 13.5,82 C6.04415588,82 -2.84217094e-13,78.6421356 -2.84217094e-13,74.5 C-2.84217094e-13,74.3319857 0.0099444185,74.1652618 0.0295240993,74 L-8.52651283e-14,74 L-8.52651283e-14,10 L27,10 L27,74 L26.9704759,74 Z" id="Oval-24" fill="#4A4A4A"></path>
+                <ellipse id="Oval-23" fill="#FFFFFF" cx="13.5" cy="7.5" rx="13.5" ry="7.5"></ellipse>
+            </g>
+            <circle id="Oval-8" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" cx="60.5" cy="59.5" r="60"></circle>
+        </g>
+    </g>
+</svg>

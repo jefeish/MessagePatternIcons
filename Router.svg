@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>Router</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Router" sketch:type="MSLayerGroup" transform="translate(4.000000, 4.000000)">
+            <circle id="Oval-22" stroke="#4A4A4A" fill="#4A4A4A" sketch:type="MSShapeGroup" cx="30.5" cy="60.5" r="10.5"></circle>
+            <circle id="Oval-19" stroke="#4A4A4A" fill="#4A4A4A" sketch:type="MSShapeGroup" cx="84.5" cy="31.5" r="10.5"></circle>
+            <circle id="Oval-20" stroke="#4A4A4A" fill="#4A4A4A" sketch:type="MSShapeGroup" cx="84.5" cy="60.5" r="10.5"></circle>
+            <circle id="Oval-21" stroke="#4A4A4A" fill="#4A4A4A" sketch:type="MSShapeGroup" cx="84.5" cy="89.5" r="10.5"></circle>
+            <circle id="Oval-12" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" cx="60" cy="60" r="60"></circle>
+            <path d="M31,60 C31,60 43.8869911,53.0608509 50.3304867,49.5912764 C56.8869911,46.0608509 70,39 70,39" id="Line-5" stroke="#4A4A4A" stroke-width="3" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            <path d="M65.432223,37.6612509 L72.7286598,35.0055651 L70.8847216,41.2906271 L65.432223,37.6612509 Z" id="Path-2" stroke="#4A4A4A" stroke-width="4" fill="#4A4A4A" sketch:type="MSShapeGroup" transform="translate(70.094900, 38.929665) rotate(-97.000000) translate(-70.094900, -38.929665) "></path>
+        </g>
+    </g>
+</svg>

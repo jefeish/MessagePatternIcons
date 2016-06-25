@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>Consumer</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Consumer" sketch:type="MSLayerGroup" transform="translate(4.000000, 4.000000)">
+            <circle id="Oval-27" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" cx="60" cy="60" r="60"></circle>
+            <g id="Rectangle-32-+-arrow-+-Rectangle-22" transform="translate(18.000000, 35.000000)" sketch:type="MSShapeGroup">
+                <path d="M36.3809524,12.5 L36.3809524,8.00563294 C36.3809524,3.57581099 39.9614208,0 44.3781525,0 L76.0027999,0 C80.4208319,0 84,3.58424395 84,8.00563294 L84,41.9943671 C84,46.424189 80.4195316,50 76.0027999,50 L44.3781525,50 C39.9601205,50 36.3809524,46.415756 36.3809524,41.9943671 L36.3809524,37.5 L40.3492063,37.5 L40.3492063,41.8381582 C40.3492063,44.0446325 42.1313738,45.8333333 44.3541671,45.8333333 L76.0267853,45.8333333 C78.238664,45.8333333 80.031746,44.0429688 80.031746,41.8381582 L80.031746,8.16184183 C80.031746,5.95536751 78.2495786,4.16666667 76.0267853,4.16666667 L44.3541671,4.16666667 C42.1422884,4.16666667 40.3492063,5.95703125 40.3492063,8.16184183 L40.3492063,12.5 L36.3809524,12.5 Z" id="Rectangle-32" stroke="#4A4A4A" stroke-width="5"></path>
+                <g id="arrow" transform="translate(27.000000, 16.000000)" stroke="#4A4A4A">
+                    <g id="arrow-11">
+                        <path d="M17.9359196,6.58057481 L29.2122311,2.47633309 L26.4609236,12.4600044 L17.9359196,6.58057481 Z" id="Path-2" stroke-width="4" fill="#4A4A4A" transform="translate(24.997210, 8.494229) rotate(-70.000000) translate(-24.997210, -8.494229) "></path>
+                        <path d="M0.5,8.5 L20.6176471,8.5" id="Line" stroke-width="7" stroke-linecap="square"></path>
+                    </g>
+                </g>
+                <rect id="Rectangle-22" stroke="#979797" fill="#4A4A4A" x="0" y="14" width="21" height="21"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

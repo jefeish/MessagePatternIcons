@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>Polling</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Polling" sketch:type="MSLayerGroup" transform="translate(-22.000000, 5.000000)">
+            <circle id="Oval-6" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" cx="86" cy="60" r="60"></circle>
+            <path d="M82.6536951,42.734374 C93.832174,48.746698 101.432338,60.5614876 101.432338,74.1530758 C101.432338,93.8384729 85.4893069,109.79664 65.8225816,109.79664 C46.1558564,109.79664 30.2128255,93.8384729 30.2128255,74.1530758 C30.2128255,68.1029052 31.7188006,62.4048078 34.3760043,57.4138669 L35.9196877,58.3051129 L35.9196877,58.3051129 C33.8609606,62.1918788 32.5295574,66.5467606 32.1220439,71.2046608 C30.4921333,89.8346246 44.2590743,106.257245 62.8713674,107.885609 C81.4836604,109.513974 97.8932087,95.7314546 99.5231194,77.1014908 C100.742848,63.1599284 93.3401243,50.4545093 81.7368847,44.2601733 L78.57915,49.5155265 L73.6272685,38.7433286 L85.4633223,38.0583398 L82.6536817,42.7343669 Z" id="loop" stroke="#4A4A4A" stroke-width="4" fill="#4A4A4A" sketch:type="MSShapeGroup" transform="translate(65.822582, 54.187729) rotate(-70.000000) translate(-65.822582, -54.187729) "></path>
+            <g id="arrow" transform="translate(40.000000, 53.000000)" stroke="#4A4A4A" sketch:type="MSShapeGroup">
+                <path d="M24.9359196,6.58057481 L36.2122311,2.47633309 L33.4609236,12.4600044 L24.9359196,6.58057481 Z" id="Path-2" stroke-width="4" fill="#4A4A4A" transform="translate(31.997210, 8.494229) rotate(-70.000000) translate(-31.997210, -8.494229) "></path>
+                <path d="M0.5,8.5 L30.5,8.5" id="Line" stroke-width="7" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
